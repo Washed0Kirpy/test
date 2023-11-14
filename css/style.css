@@ -1,0 +1,62 @@
+header{
+    background-color: rgb(0, 47, 255);
+    margin: 0px;
+    padding: 20px;
+    }
+.odkazy{
+    display: flex;
+    justify-content: right;
+    justify-content: space-between;
+    margin-left: 1600px;
+}
+.odkazy a{
+    color: white;
+    text-decoration: none;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+    border: 10;
+}
+.background{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: blueviolet;
+    height: 100px;
+}
+.chatbox{
+    display: flex;
+    justify-content: center;
+}
+.loremipsum{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+    background-color: blue;
+    border-radius: 10px;
+    width: 1000;
+    height: 70px;
+    color: white;
+
+}
+.galio{
+    background-color: aqua;
+    margin: 200;
+    height: 40px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 5px;
+}
+.modra{
+    background-color: blueviolet;
+    height: 600px;
+    padding: 50px;
+}
+.chatbox{
+    background-color: blueviolet;
+    color: white;
+}
